@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\bin\Debug\butuni.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\obj\Debug\butuni.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\obj\Debug\butuni.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\obj\Debug\butuni.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\obj\Debug\butuni.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\bin\Debug\butuni.exe
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\bin\Debug\butuni.pdb
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\obj\Debug\butuni.exe
+c:\users\hp\documents\visual studio 2015\Projects\butuni\butuni\obj\Debug\butuni.pdb
